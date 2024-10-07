@@ -1,0 +1,811 @@
+﻿id,Sentence,Aspect Term,polarity,from,to
+814,The food was absolutely amazing!!,food,positive,4,8
+831,I must say it's a little pricey for the food because it was not as spectacular as the view.,food,negative,40,44
+835,The food was very expensive (we spent $160 for lunch for two) but extremely tasty.,food,conflict,4,8
+837,Why do people rave about the ambience.,ambience,negative,29,37
+838,The aesthetics of this place are like an airport lounge.,ambience,negative,4,14
+839,"Given the incredible architecture surrounding it, this place has no character.",ambience,positive,21,33
+840,Food was OK - fish was cooked well.,food,neutral,0,4
+842,"Service was decent, but not as smooth as I would expect from a place with these prices and reputation.",service,conflict,0,7
+843,A restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.,food,positive,64,68
+843,A restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.,service,positive,80,87
+843,A restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.,ambience,positive,102,112
+844,No gimmicks here -- the food speaks for itself in its freshness and preparation.,food,positive,24,28
+846,"The service was impeccable and unobtrusive -- the staff knows what they are there to do -- to know their menu, present your meal, and attend to your needs.",service,positive,4,11
+856,"An oasis of refinement:  Food, though somewhat uneven, often reaches the pinnacles of new American fine cuisine - chef's passion (and kitchen's precise execution) is most evident in the fish dishes and soups.",food,conflict,25,29
+858,Service is highly refined: our seating was delayed 35 minutes past our reservation and the maitre d' apologized and regularly kept us apprised of progress.,service,positive,0,7
+863,The food was delicious but do not come here on a empty stomach.,food,conflict,4,8
+864,The portions are small but being that the food was so good makes up for that.,food,positive,42,46
+869,The ambience is authentic and relaxing and we have always received attentive and prompt service.,ambience,positive,4,12
+869,The ambience is authentic and relaxing and we have always received attentive and prompt service.,service,positive,88,95
+870,"In addition, the food is very good and the prices are reasonable.",food,positive,17,21
+872,I would highly recommend this place to anyone looking for a casual atmosphere that whisks you away to the left bank of the river Seine.,ambience,positive,67,77
+882,"While the ambiance and atmosphere were great, the food and service could have been a lot better.",ambience,positive,10,18
+882,"While the ambiance and atmosphere were great, the food and service could have been a lot better.",ambience,positive,23,33
+882,"While the ambiance and atmosphere were great, the food and service could have been a lot better.",food,negative,50,54
+882,"While the ambiance and atmosphere were great, the food and service could have been a lot better.",service,negative,59,66
+885,"While this is a pretty place in that overly cute French way, the food was insultingly horrible.",food,negative,65,69
+891,The food itself was just ok - nothing spectacular - but the service was awful.,food,neutral,4,8
+891,The food itself was just ok - nothing spectacular - but the service was awful.,service,negative,60,67
+899,Food and service was okay.,food,neutral,0,4
+899,Food and service was okay.,service,neutral,9,16
+905,"Orsay, is a very pleasnt throw back to traditional French food, and French service as well.",food,positive,51,62
+905,"Orsay, is a very pleasnt throw back to traditional French food, and French service as well.",service,positive,75,82
+908,"Orsay, is without a doubt one of the best values for authentic French food in NYC.",food,positive,63,74
+910,"Service was very good - prompt, attentive and non-intrusive.",service,positive,0,7
+911,"Food was very good as well, considering that we tried the budget selection (though I wish the pork belly that I ordered was roasted a bit longer, so that fat was more of a melt-in-your-mouth experience).",food,positive,0,4
+916,The food was average or above including some surprising tasty dishes.,food,positive,4,8
+917,Service was also very good.,service,positive,0,7
+920,The food was good.,food,positive,4,8
+922,but the service was a bit slow.,service,negative,8,15
+925,The service was attentive.,service,positive,4,11
+928,I care more about the food and ambience.,food,neutral,22,26
+928,I care more about the food and ambience.,ambience,neutral,31,39
+937,INCREDIBLY POOR SERVICE AN FOOD QUALITY AT EXORBITANT PRICES.,service,negative,16,23
+937,INCREDIBLY POOR SERVICE AN FOOD QUALITY AT EXORBITANT PRICES.,food,negative,27,39
+938,"I found the food, service and value exceptional everytime I have been there.",food,positive,12,16
+938,"I found the food, service and value exceptional everytime I have been there.",service,positive,18,25
+939,The food was authentic.,food,positive,4,8
+941,The service was excellent - friendly and attentive.,service,positive,4,11
+945,"The cafe itself was really nice with comfortable outdoor chairs and tables, but the service could have been better.",service,negative,84,91
+953,"With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.",food,negative,66,70
+953,"With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.",service,negative,160,167
+956,The food was exceptional.,food,positive,4,8
+957,"The menu consisted of standard brassiere food, better then places like Balthazar etc.",food,positive,31,45
+959,The service was friendly and the atmosphere was casual.,service,positive,4,11
+959,The service was friendly and the atmosphere was casual.,ambience,positive,33,43
+967,"No food snobs allowed, this place is for people who appreciate good food.",food,neutral,3,7
+967,"No food snobs allowed, this place is for people who appreciate good food.",food,positive,68,72
+973,"Ambiance and music funky, which I enjoy.",ambience,positive,0,8
+978,The food has been consistant for years and it never lets you down.,food,positive,4,8
+979,The service is descent even when this small place is packed.,service,positive,4,11
+988,The food is delicious.,food,positive,4,8
+989,The service is fine and they allow you to enjoy the view.,service,positive,4,11
+1000,"The food is good, especially their more basic dishes, and the drinks are delicious.",food,positive,4,8
+1002,"The view is spectacular, and the food is great.",food,positive,33,37
+1009,"The service was bad, the food took to forever to come, we sat on the upper level.",service,negative,4,11
+1009,"The service was bad, the food took to forever to come, we sat on the upper level.",food,negative,25,29
+1011,We actually left hungry and went across the street to Wo Hop at 15 Mott street for some good chinese food.,food,positive,93,105
+1014,The atmosphere is great!!!,ambience,positive,4,14
+1017,sometimes i get good food and ok service.,food,positive,21,25
+1017,sometimes i get good food and ok service.,service,neutral,33,40
+1018,"sometimes i get bad food and bad service, sometimes i get good good and bad service.",food,negative,20,24
+1018,"sometimes i get bad food and bad service, sometimes i get good good and bad service.",service,negative,33,40
+1018,"sometimes i get bad food and bad service, sometimes i get good good and bad service.",service,negative,76,83
+1023,They've the best desserts and mixed drinks as well as snack foods.,food,positive,54,65
+1030,"As far as the service goes, the waitresses were not particularly friendly, but they got the job done.",service,conflict,14,21
+1031,"You don't go to Mizu for excellent service, you go for the large amounts of food, the amiable atmosphere, and the hole-in-the-wall feeling of the place.",service,negative,35,42
+1031,"You don't go to Mizu for excellent service, you go for the large amounts of food, the amiable atmosphere, and the hole-in-the-wall feeling of the place.",food,positive,76,80
+1031,"You don't go to Mizu for excellent service, you go for the large amounts of food, the amiable atmosphere, and the hole-in-the-wall feeling of the place.",ambience,positive,94,104
+1032,"Whenever you need a Sushi fix, Mizu will be there with quality fish and great service.",service,positive,78,85
+1034,"Great friendly service, Fast seating, Fast Delivery, Excellent sushi.",service,positive,15,22
+1037,"While the food was excellent, it wasn't cheap (though not extremely expensive either).",food,positive,10,14
+1038,"The service was mediocre, and the lack of air conditioning made for a less than comfortable meal.",service,neutral,4,11
+1038,"The service was mediocre, and the lack of air conditioning made for a less than comfortable meal.",ambience,negative,42,58
+1040,"So, for good food i'd recommend it, but not for a fun night out.",food,positive,13,17
+1050,"Not only is the cuisine the best around, the service has always been attentive and charming.",service,positive,45,52
+1057,Drawbacks: service is slow and they don't toast!,service,negative,11,18
+1061,Service is fast and friendly.,service,positive,0,7
+1065,Nothing fancy but really good food with pretty reasonable price.,food,positive,30,34
+1066,Other apetizers and food,food,neutral,20,24
+1094,The food is amazing!!!!,food,positive,4,8
+1095,The quality of food at this restaurant accompanied  by fantastic live jazz makes this place a perfect 10!,food,positive,4,19
+1096,This is definitely an  excellent date spot because of the ambiance and on the weekends the  night scene is more than alive.,ambience,positive,58,66
+1100,"Both times I was extremely dissappointed by the service, which was boarderline rude.",service,negative,48,55
+1127,I liked the food at this quasi-thai restaurant.,food,positive,12,16
+1129,"The food was very good, but not very thai.",food,conflict,4,8
+1140,"Anyways, if you're in the neighborhood to eat good food, I wouldn't waste my time trying to find something, rather go across the street to Tamari.",food,positive,51,55
+1158,"Good food at the restaurant (a bit expensive, but great if you want to impress your date).",food,positive,5,9
+1162,"Good atmosphere, combination of all the hottest music dress code is relatively strict except on Fridays.",ambience,positive,5,15
+1163,The service is fantastic.,service,positive,4,11
+1164,The food there is so good that even to order out the wait is incredible.,food,positive,4,8
+1175,"Get your food to go, find a bench, and kick back with a plate of dumplings.",food,neutral,9,13
+1181,"The place wasn't too hard to find, but it was kind of packed, as soon as my boyfriend and I got our food, the line reached the door.",food,neutral,100,104
+1182,"The food is very good for it's price, better than most fried dumplings I've had.",food,positive,4,8
+1188,"The food is great, service is ok.",food,positive,4,8
+1188,"The food is great, service is ok.",service,neutral,19,26
+1190,You have to increase the service a lot.,service,negative,25,32
+1196,The service is awful--the last time I was there (and I do mean the last time) we were told that they needed our table so we would have to leave.,service,negative,4,11
+1204,"Perhaps this food is considered extreme to an Upper East Side resident, but for the rest of us who've actually eaten ethnic food, this is simply dull.",food,conflict,13,17
+1204,"Perhaps this food is considered extreme to an Upper East Side resident, but for the rest of us who've actually eaten ethnic food, this is simply dull.",food,negative,117,128
+1206,The place is small and cramped but the food is fantastic.,food,positive,39,43
+1213,I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side.,service,negative,91,98
+1213,I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side.,food,negative,117,121
+1218,"Of course this atmosphere is lacking, but what do you expect from a 24 hour bagel place anyways?",ambience,negative,15,25
+1232,big and soft as well as good lunch food.,food,positive,29,39
+1269,Instead of wasting your time here: SUPPORT RESTAURANTS THAT CARE ABOUT FOOD.,food,neutral,71,75
+1270,Plain and simple it's bad thai food.,food,negative,26,35
+1271,"The red curry is weak and tasteless, the pad thai is stuck together and lumpy, the rice is often overcooked, and the seafood is pretty sketchy.",food,negative,117,124
+1272,Don't eat here unless you're starving for thai food and you work next door.,food,negative,42,51
+1281,Great atmoshere and worth every bit.,ambience,positive,6,15
+1288,The owners and employees are friendly and their pizza is fantastic.,service,positive,15,24
+1295,The counter service is bad.,service,negative,4,19
+1301,The food was absolutely horrible!,food,negative,4,8
+1302,And their prices are very high - they actually think that they can get away with charging such prices for such terrible food and service!,food,negative,120,124
+1302,And their prices are very high - they actually think that they can get away with charging such prices for such terrible food and service!,service,negative,129,136
+1304,"We actually gave 10% tip (which we have never done despite mediocre food and service), because we felt totally ripped off.",food,neutral,68,72
+1304,"We actually gave 10% tip (which we have never done despite mediocre food and service), because we felt totally ripped off.",service,neutral,77,84
+1305,"In fact, while leaving the place we saw two people looking at the menu, and I couldn't help telling them that the food was horrible.",food,negative,114,118
+1316,"The food is o.k., but not any better than what you get at a good neighborhood restaurant.",food,neutral,4,8
+1318,"It cannot be the ambience, because the place is very cramped and some guests have to sit in an aisle.",ambience,negative,17,25
+1321,Its an excellent place to relax and the food is one of the best in the city of New York.,food,positive,40,44
+1326,They treated us well and the food was extremely fresh and well-prepared.,food,positive,29,33
+1327,The menu seemed to have a wide variety of dishes for seafood lovers and interesting ways of preparing them.,food,positive,53,60
+1335,"While we enjoyed the food, we were highly disappointed by the poor service (waiter was not quite competent and SLOW service) and lack of remorse.",food,positive,21,25
+1335,"While we enjoyed the food, we were highly disappointed by the poor service (waiter was not quite competent and SLOW service) and lack of remorse.",service,negative,67,74
+1335,"While we enjoyed the food, we were highly disappointed by the poor service (waiter was not quite competent and SLOW service) and lack of remorse.",service,negative,116,123
+1338,"Bottom line: B+ for the food, F for the service.",food,positive,24,28
+1338,"Bottom line: B+ for the food, F for the service.",service,negative,40,47
+1341,Service was very friendly.,service,positive,0,7
+1353,"Decent Thai food in cute - though a bit dank - little Nolita hangout, BUT service terrible.",food,positive,7,16
+1353,"Decent Thai food in cute - though a bit dank - little Nolita hangout, BUT service terrible.",service,negative,74,81
+1363,This food is asian-air fusion.,food,neutral,5,9
+1366,"The drinks are a saving grace, but service staff, please, get over yourselves.",service,negative,35,48
+1370,I'm still mad that i had to pay for lousy food.,food,negative,42,46
+1372,Service was also horrible and the ambience is not that great.,service,negative,0,7
+1372,Service was also horrible and the ambience is not that great.,ambience,negative,34,42
+1378,I recieved prompt service with a smile.,service,positive,18,25
+1384,Incredible food at a very agreable price brings me back just about every other day to this authentic Thai restaurant.,food,positive,11,15
+1385,"Service is extraordinary, yet not overbearing, and the decor brings a taste of trendy SoHo into Queens.",service,positive,0,7
+1386,"The food's dazzling flavors overwhelm the palate, truly embracing the beauty of authentic Thai cuisine.",food,positive,4,8
+1394,The atmosphere is much better than Sripraphai (more modern and sleek).,ambience,positive,4,14
+1398,"Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!",food,positive,10,14
+1398,"Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!",service,positive,26,33
+1398,"Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!",ambience,positive,48,58
+1399,"The food is consistently wonderful - I've been coming here for years, and the owner has always been accomodating and friendly.",food,positive,4,8
+1402,I love Indian food and consider myself to be quite an expert on it.,food,positive,7,18
+1411,"$6 and there is much tasty food, all of it fresh and continually refilled.",food,positive,27,31
+1415,"Disappointing food, lousy service.",food,negative,14,18
+1415,"Disappointing food, lousy service.",service,negative,26,33
+1424,"my picks are:  - Scallion Pancake (fried with vegetable juice, very special and tasty)  - Guizhou Chicken  - Shredded Squid Family Style (one of my personal favorites)  - Sichuan Spicy Soft Shell Crab  - Shuizhu Fish (this one is for hardcore Sichuan food fans, I wouldn't recommend to my American friends as it's very spicy.",food,neutral,243,255
+1429,Sauce was watery and the food didn't have much flavor.,food,negative,25,29
+1430,"If you like the food and the value you get from some of Chinatown restaurants, this is not the place for you.",food,neutral,16,20
+1434,"If your favorite Chinese food is General Tao chicken, then this is NOT your place.",food,neutral,17,29
+1435,"Quality of food is excellent and price is cheap, stick to pork, fish, chicken, lamb and vegetables.",food,positive,0,15
+1438,"If you want Americanized Chinese food with your usual watery, generic white sauce, this is your place.",food,neutral,25,37
+1439,They even have a section in the menu called American Chinese food!,food,negative,44,65
+1441,"My entree of hot pot with seafood was full of imitation crabmeat with a couple pieces of shrimp and squid, and was unnecessarily heated with a burner.",food,negative,13,33
+1456,"You can certainly find restaurants that offer a superior fine dining experience, but for superb food at reasonable prices, La Villa can't be beat.",food,positive,96,100
+1465,"though the service could be better (possibly due to more than one very large group in the house), it is very cordial and warm, as is the general clientele.",service,conflict,11,18
+1469,The pizza is yummy and I like the atmoshpere.,ambience,positive,34,44
+1496,Turned out there was full service upstairs and sat down.,service,positive,26,33
+1508,"they did give a 15% discount at the end, wasn't enough, as they knew the service was horrible.",service,negative,73,80
+1518,"this is the best secret place in midtown', I heard that from the bartender, after having brilliant food ( try steak with portobello mushrooms) and drinks on the bar last Tuesday.",food,positive,99,103
+1528,I'm happy to have Nosh in the neighborhood and the food is very comforting.,food,positive,51,55
+1530,I've overheard comments from him to his employees that should not have been delivered in the dining area and I've been sitting there while he lectured another customer.,service,negative,40,49
+1535,"They might be all business at the counter when you give your order, but their food says I love you.",food,positive,78,82
+1542,As we were sitting eating the subpar food the manager proceeded to berate a couple of his employees for putting out the wrong containers for condiments and explained to them how expensive these containers were.,food,negative,37,41
+1542,As we were sitting eating the subpar food the manager proceeded to berate a couple of his employees for putting out the wrong containers for condiments and explained to them how expensive these containers were.,service,negative,90,99
+1546,"Maybe I say so because it looked promising for people who like artery-clogging jewish deli food, but turns out to be poorly run and awful.",food,conflict,79,95
+1548,"The food is terrible and overall, I would have to say avoid at all costs.",food,negative,4,8
+1549,Lahore is a great place to duck into late-night when you need some really tasty food on the cheap -- you'll likely have trouble finishing the amount of food you get for FOUR DOLLARS.,food,positive,80,84
+1549,Lahore is a great place to duck into late-night when you need some really tasty food on the cheap -- you'll likely have trouble finishing the amount of food you get for FOUR DOLLARS.,food,positive,152,156
+1550,"It's constantly open, catering to the Pakistani cabbies lined up on Crosby St., so there's more turnover with the food than you'd expect (i.e., surprisingly fresh).",food,positive,114,118
+1559,Food doesn't appear to be cooked on premisis but there's a high turnover so its pretty fresh.,food,conflict,0,4
+1563,Authentic Pakistani food.,food,positive,10,24
+1566,"Just straight up cheap, good food.",food,positive,29,33
+1570,"The food however, is what one might expect.",food,neutral,4,8
+1575,Our family never expected such incredible entertainment in a restaurant.,ambience,positive,42,55
+1578,Our food was great too!,food,positive,4,8
+1586,THE FOOD PORTIONS ARE REALLY LARGE.,food,positive,4,17
+1594,The food was good too.,food,positive,4,8
+1602,"Service is great, takeout is good too.",service,positive,0,7
+1607,"The service is a bit slow, but harkens back to my years growing up in Napoli, Italy where things are not rushed and when you sit down for dinner the table is yours all night.",service,negative,4,11
+1609,Service was quick.,service,positive,0,7
+1621,Go to Volare for 1st class service and terrific food.,service,positive,27,34
+1621,Go to Volare for 1st class service and terrific food.,food,positive,48,52
+1624,The only thing more wonderful than the food (which is exceptional) is the service.,food,positive,39,43
+1624,The only thing more wonderful than the food (which is exceptional) is the service.,service,positive,74,81
+1627,"Volare virgins or weekly regulars, everyone gets treated the same and you can't ask for more than that when the service is this friendly.",service,positive,112,119
+1634,"The food is uniformly exceptional, with a very capable kitchen which will proudly whip up whatever you feel like eating, whether it's on the menu or not.",food,positive,4,8
+1638,The prices are exceptionally reasonable for food of this caliber.,food,positive,44,48
+1652,"Otherwise, this place has great service and prices and a nice friendly atmosphere.",service,positive,32,39
+1652,"Otherwise, this place has great service and prices and a nice friendly atmosphere.",ambience,positive,71,81
+1660,Stuffing yourself with Japanese food is a rare thing.,food,neutral,23,36
+1664,Service was slow had to wait to order and get food although not crowded.,service,negative,0,7
+1664,Service was slow had to wait to order and get food although not crowded.,food,neutral,46,50
+1666,Food was good not great not worth the wait or another visit,food,conflict,0,4
+1667,I've read some of the previews reviews - people are either not New Yorkers or have more appreciation for ambience then food.,ambience,neutral,105,113
+1667,I've read some of the previews reviews - people are either not New Yorkers or have more appreciation for ambience then food.,food,neutral,119,123
+1672,The food is awesome - definitely try the striped bass.,food,positive,4,8
+1675,"For the quality of food, a little too expensive.",food,negative,8,23
+1676,"You are paying for the atmosphere, which is nice, but can be had in numerous places in Bay Ridge.",ambience,conflict,23,33
+1683,"The vibe is very relaxed and cozy, service was great and the food was excellent!",service,positive,35,42
+1683,"The vibe is very relaxed and cozy, service was great and the food was excellent!",food,positive,61,65
+1689,"I wouldn't even have complained at all if the food at least tasted good but the quality of food was crappy, too.",food,negative,46,50
+1689,"I wouldn't even have complained at all if the food at least tasted good but the quality of food was crappy, too.",food,negative,80,95
+1690,I was really disappointed ant wanted to tell everyone not to go eat or even take out food from there.,food,negative,85,89
+1691,Good food.,food,positive,5,9
+1702,The food is reliable and the price is moderate.,food,positive,4,8
+1704,One should not go to Lucky Strike for the food.,food,negative,42,46
+1705,"While certain staples are excellent (the burger, some of the pastas), the food is not really the point.",food,neutral,74,78
+1709,"Unfortunately, the food was NOT something to get worked up about.",food,negative,19,23
+1710,"Our waiter was fine, the place looks nice in that not-trying-too-hard way, but at those prices, a little more should be expected of your food.",food,negative,137,141
+1711,Diner food at bistro prices is a bummer....,food,negative,6,10
+1713,"Other than being a little crowded and a bit overpriced, the atmosphere is filled with energy (and the beautiful people of course) and the food was surprising good!",ambience,positive,60,70
+1713,"Other than being a little crowded and a bit overpriced, the atmosphere is filled with energy (and the beautiful people of course) and the food was surprising good!",food,positive,138,142
+1718,"Great food, great decor, great service.",food,positive,6,10
+1718,"Great food, great decor, great service.",service,positive,31,38
+1723,"The food is yummy, especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries.",food,positive,4,8
+1724,"But the best part about LS is the late night atmosphere, delightfully free of the BTs.",ambience,positive,45,55
+1734,Service is average.,service,neutral,0,7
+1739,Always great service!,service,positive,13,20
+1748,Great pizza and fantastic service.,service,positive,26,33
+1766,Food is excellent.,food,positive,0,4
+1778,"The atmosphere is nothing special, but it feels like a Sushi establishment in Tokyo.",ambience,neutral,4,14
+1779,The owner and staff are all Japanese as well and that adds to the entire ambiance.,ambience,positive,73,81
+1780,"Despite a slightly limited menu, everything prepared is done to perfection, ultra fresh and a work of food art.",food,positive,102,110
+1797,"It's a shame that a nice, convenient place like the Pink Pony can be so ruined by lousy service.",service,negative,88,95
+1800,"We asked to be moved (which took half an hour), and then were seated in a high traffic area in the back, even though the rest of the room was practically empty.",ambience,negative,87,91
+1808,"however, it's the service that leaves a bad taste in my mouth.",service,negative,18,25
+1817,Food-awesome.,food,positive,0,4
+1818,Service- friendly and attentive.,service,positive,0,7
+1819,Ambiance- relaxed and stylish.,ambience,positive,0,8
+1827,He takes real pride in his food and his business.,food,positive,27,31
+1836,"Other than the crappy service from two individuals, it's great.",service,negative,22,29
+1837,"Good, fast service.",service,positive,11,18
+1839,Food is great and inexpensive.,food,positive,0,4
+1843,The establishment scores big points in presentation and style.,ambience,positive,4,17
+1844,"Everything looks great, the drinks, the decor, the food, even the people.",food,positive,51,55
+1845,"However, service was as plain as sesame crusted Salmon I had.",service,neutral,9,16
+1846,"The highlight of the night was the mayonaisse for my side of fries I received from one of the food runners, which is not good considering the bill was nearly $100.",food,neutral,94,106
+1851,Service was on par but not wonderful.,service,conflict,0,7
+1852,My biggest complaint was the un-tasty food although presented well.,food,conflict,38,42
+1854,It won't break the bank but I also wouldnt come back for the food.,food,negative,61,65
+1870,Fast service.,service,positive,5,12
+1872,"Thalia is a beautiful restaurant with beautiful people serving you, but the food doesn't quite match up.",food,negative,76,80
+1885,The food was very well prepared.,food,positive,4,8
+1886,The service was ok.,service,neutral,4,11
+1890,The atmosphere was crowded but it was a great bistro-type vibe.,ambience,conflict,4,14
+1891,"The food was really good, I had the onion soup and it was one of the best ever.",food,positive,4,8
+1894,The place is a BISTRO which means: simple dishes and wine served efficiently in a bustling atmosphere.,ambience,positive,91,101
+1904,"I didn't complain, I liked the atmosphere so much.",ambience,positive,31,41
+1907,The waitress suggested glasses of wine that went very well with the food.,food,neutral,68,72
+1910,"The food is expensive, but worth every bite.",food,conflict,4,8
+1916,"It's charmingly small and that leads to an atmoshere that is extremely cozy and romantic, even.",ambience,positive,43,52
+1917,"The food, served in small tasting portions (as an option) is very good with each dish being better than the next.",food,positive,4,8
+1921,The food and staff always surprise me with the new heights they are taken to.,food,positive,4,8
+1922,"Granted the space is smaller than most, it is the best service you will find in even the largest of restaurants.",service,positive,55,62
+1929,"The food was delicious (I had a halibut special, my husband had steak), and the service was top-notch.",food,positive,4,8
+1929,"The food was delicious (I had a halibut special, my husband had steak), and the service was top-notch.",service,positive,80,87
+1945,"If you want a casual neighborhood bistro that has great food and excellent service, this is the place.",food,positive,56,60
+1945,"If you want a casual neighborhood bistro that has great food and excellent service, this is the place.",service,positive,75,82
+1947,"The staff is accomodating, the ambiance is exciting and yet relaxed, and the food is out of this world!",ambience,positive,31,39
+1947,"The staff is accomodating, the ambiance is exciting and yet relaxed, and the food is out of this world!",food,positive,77,81
+1948,"We've been following chef Lyle's food around New York for 15 years and while remaining classic, his innovations with bistro fare have made us return and return.",food,positive,33,37
+1952,The service was excellent and the food was delicious.,service,positive,4,11
+1952,The service was excellent and the food was delicious.,food,positive,34,38
+1961,"The table service could have been a little more attentive but as someone who also works in the service industry, I understood they were busy.",service,conflict,4,17
+1961,"The table service could have been a little more attentive but as someone who also works in the service industry, I understood they were busy.",service,neutral,95,102
+1969,"The service, wine selection, ambiance are all outstanding and deserve recognition.",service,positive,4,11
+1969,"The service, wine selection, ambiance are all outstanding and deserve recognition.",ambience,positive,29,37
+1986,"If presentation and service is your thing, then this magic show works.",service,positive,20,27
+1987,"On the other hand, if you are not fooled easily, you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse, and food that will outshine in presentaion, taste, choice, quality and quantity.",service,neutral,106,113
+1987,"On the other hand, if you are not fooled easily, you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse, and food that will outshine in presentaion, taste, choice, quality and quantity.",ambience,neutral,118,126
+1987,"On the other hand, if you are not fooled easily, you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse, and food that will outshine in presentaion, taste, choice, quality and quantity.",food,negative,166,170
+1991,"The production is a symphony, alot of fun to experience.The food sublime for the most part.",food,positive,60,64
+1994,I love and I know gourmet food by excellence!,food,positive,18,30
+2006,"The service was attentive, yet discreet.",service,positive,4,11
+2012,"While we thoroughly enjoyed the food, it was annoying to scream across the table for conversation.",food,positive,32,36
+2030,Our friendly server made great food suggestions and also sent both the sommelier and the fromager to the table to help suggest different pairings for wine and cheese.,food,positive,31,47
+2035,"Waiters tend to forget drinks completely, food portions are so tiny, two people have trouble sharing one entree.",food,negative,42,55
+2037,"This place has good potential, but needs a significant amount of work before we can justify spending that much money on indian food you can get everywhere else.",food,neutral,120,131
+2038,The food was boring and expensive.,food,negative,4,8
+2057,I am happy i did the food was awsome.,food,positive,21,25
+2067,Decor is nice though service can be spotty.,service,negative,21,28
+2070,"Most importantly, food is excellent.",food,positive,18,22
+2079,"The staff was accomodating, the food was absolutely delicious and the place is lovely.",food,positive,32,36
+2098,Okay service.,service,neutral,5,12
+2109,"The sushi has been from average to below average, the wait service has always been sub-par the atmosphere goes from nice to really irritating (if you sit in the area beyond the kitchen, the acousitcs are horrid, everything echoes is extremely loud).",service,negative,54,66
+2109,"The sushi has been from average to below average, the wait service has always been sub-par the atmosphere goes from nice to really irritating (if you sit in the area beyond the kitchen, the acousitcs are horrid, everything echoes is extremely loud).",ambience,conflict,95,105
+2109,"The sushi has been from average to below average, the wait service has always been sub-par the atmosphere goes from nice to really irritating (if you sit in the area beyond the kitchen, the acousitcs are horrid, everything echoes is extremely loud).",ambience,negative,161,165
+2126,Very good service and very good prices.,service,positive,10,17
+2128,Highly recommend this as great value for excellent sushi and service.,service,positive,61,68
+2132,"The food, drinks and service are clearly among the best in the city.",food,positive,4,8
+2132,"The food, drinks and service are clearly among the best in the city.",service,positive,21,28
+2137,"The chicken pot pie is excpetiona, the cheeseburger huge and delictable, and the service professional wan warm.",service,positive,81,88
+2146,"The staff makes you feel at home, the food is great and the atmosphere is WONDERFUL!",food,positive,38,42
+2146,"The staff makes you feel at home, the food is great and the atmosphere is WONDERFUL!",ambience,positive,60,70
+2149,Good food.,food,positive,5,9
+2171,The food options rule.,food,positive,4,16
+2189,"Service is not exactly five star, but thats not really a big deal.",service,conflict,0,7
+2195,The service is not consistently excellent -- just decent.,service,neutral,4,11
+2200,The design and atmosphere is just as good.,ambience,positive,15,25
+2204,"It's super-trendy and there's always someone to take that empty seat, so it seems that customer service has been deemed not of the essence.",service,positive,96,103
+2205,The food is usually good but it certainly isn't a relaxing place to go.,food,positive,4,8
+2209,"This place is really trendi but they have forgotten about the most important part of a  restaurant, the food.",food,negative,104,108
+2210,"The last two times I ordered from here my food was soo spicy that  I could barely eat it, and the spice took away from the flavor of the dish.",food,negative,42,46
+2215,"The ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.",ambience,positive,4,12
+2215,"The ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.",food,positive,80,84
+2218,Delicious food at a great price but do not go here on a cold day and sit by the front door.,food,positive,10,14
+2222,Went there and had a combination of different seafood dishes and appetizers.,food,neutral,46,60
+2223,The food was spicy and delicious.,food,positive,4,8
+2226,The price was extremely reasonable for the appetizers and food we ate.,food,positive,58,62
+2230,What I didn't like was how the food came right after it was ordered.,food,negative,31,35
+2236,"The food was not fresh, the sauces were bland and very oily.",food,negative,4,8
+2239,This little place definitely exceeded my expectations and you sure get a lot of food for your money.,food,positive,80,84
+2240,The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.,service,positive,4,11
+2240,The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.,food,positive,42,46
+2245,"I was in love with Pongsri on 48th, but compared to Suan it is slow in service and overpriced.",service,negative,71,78
+2249,"I have been a longtime fan of Holy Basil in the East Village, and while I do believe their food has slightly slipped in quality, I have been hesitant to be disloyal.",food,negative,91,95
+2263,We went around 9:30 on a Friday and it had died down a bit by then so the service was great!,service,positive,74,81
+2267,"Good, dark atmosphere and the music is a nice touch.",ambience,positive,11,21
+2271,"If you're craving for Haru's great food, especially the House Roll, but can't stand the wait building outisde, head across the street to their Sake Bar!",food,positive,35,39
+2284,The food is okay and the prices here are mediocre.,food,neutral,4,8
+2285,You can't say its cheap because food is cheaper in Chinatown.,food,conflict,32,36
+2289,The service is good and the resturant is clean.,service,positive,4,11
+2290,Best Taiwanese food in NY!,food,positive,5,19
+2306,The food is great.,food,positive,4,8
+2314,The service was great as well.,service,positive,4,11
+2320,"Service was slow, but the people were friendly.",service,negative,0,7
+2328,Great Indian food and the service is incredible.,food,positive,6,17
+2328,Great Indian food and the service is incredible.,service,positive,26,33
+2332,Great food and the prices are very reasonable.,food,positive,6,10
+2336,Ambiance is barely romantic but management tries.,ambience,negative,0,8
+2361,"To celebrate a birthday, three of us went to Mare anticipating great food.",food,neutral,69,73
+2377,"The food was just awful, ATROCIOUS actually.",food,negative,4,8
+2378,"The service was typical short-order, dinner type.",service,neutral,4,11
+2389,"Good, because hey, it's more food, but bad because dim sum is supposed to be smaller portions so you can try out more dishes and smaller so that each dish is cheap.",food,positive,29,33
+2391,Nevertheless the food itself is pretty good.,food,positive,17,21
+2392,"Spice is great Thai food, love the inexpensive appetizers.",food,positive,15,24
+2396,All the NYU students love this place so it makes for a fun young atmosphere.,ambience,positive,65,75
+2402,"The only concern i have is with the slighly all-business waitstaff who order and throw the food down, rushing you out.",food,neutral,91,95
+2405,Great food at reasonable prices.,food,positive,6,10
+2409,And I would have to agree with the masses in terms of service - delivery is their Achilles' heel.,service,negative,54,61
+2411,"However, their popularity has yet to slow down, and I still find myself drawn to their ambiance and delectable reputation.",ambience,positive,87,95
+2413,"An excellent alternative to fast food joints and ordering in but, the food was slightly disappointing.",food,negative,28,37
+2413,"An excellent alternative to fast food joints and ordering in but, the food was slightly disappointing.",food,negative,70,74
+2414,"The Pad thai, lad nar and various other dishes all look good on paper but, I've had better thai food in less asthetically pleasing places.",food,neutral,91,100
+2419,This is the pinnacle of Indian Fast Food (all fast foods in my opinion).,food,positive,24,40
+2421,"For all of you new to Indian food, try the Paneer Roll, it is a piece of heaven.",food,positive,22,33
+2422,"I like Mamoun's food as well, but side by side, Kati Rolls just produce tastier food hands down.",food,positive,16,20
+2422,"I like Mamoun's food as well, but side by side, Kati Rolls just produce tastier food hands down.",food,positive,80,84
+2428,"As a long-time patron of Mamoun's, I always figured that I had found the best late night food spot in the city.",food,positive,89,98
+2433,There is also very limited seating and there can be a substantial wait in getting food at peak times.,food,neutral,82,86
+2440,An excellent service,service,positive,13,20
+2443,"Great food (spinach and corn dumplings and massamman curry), very friendly and no nonsense service and a clean and funky bathroom.",food,positive,6,10
+2443,"Great food (spinach and corn dumplings and massamman curry), very friendly and no nonsense service and a clean and funky bathroom.",service,positive,91,98
+2443,"Great food (spinach and corn dumplings and massamman curry), very friendly and no nonsense service and a clean and funky bathroom.",ambience,positive,121,129
+2454,I love the atmorphere @ peep!,ambience,positive,11,21
+2458,"It's the perfect restaurant for NY life style, it got cool design, awsome drinks and food and lot's of good looking people eating and hanging at the pink bar...",food,positive,85,89
+2467,"Great wine, great food.",food,positive,18,22
+2468,"I don't like Indian food too much and this was delicious, however you want to factor that into the equation.",food,positive,13,24
+2474,The food is alright - some stuff is good - some is not (like the steak dish which tends to be dry).,food,conflict,4,8
+2479,We visited Bread Bar during January restaurant week and were so pleased with the menu selections and service.,service,positive,101,108
+2491,"Aside from the rushed service, we were very impressed with the food and the drinks.",service,negative,22,29
+2491,"Aside from the rushed service, we were very impressed with the food and the drinks.",food,positive,63,67
+2495,"This place, however, has a lot less pretension than Joya and the Thai food is still above-average.",food,positive,65,74
+2501,Service has always been friendly and efficient.,service,positive,0,7
+2507,The food is great and authentic.,food,positive,4,8
+2512,"good music, great food, speedy service affordable prices.",food,positive,18,22
+2512,"good music, great food, speedy service affordable prices.",service,positive,31,38
+2517,"Authentic food and they have REAL service, not just the rush you get sometimes when they try to push you out the door.",food,positive,10,14
+2517,"Authentic food and they have REAL service, not just the rush you get sometimes when they try to push you out the door.",service,positive,34,41
+2521,"The environment is romantic, but the food is horrible, the service is pathetic, and gabriella lies about everything she could.",ambience,positive,4,15
+2521,"The environment is romantic, but the food is horrible, the service is pathetic, and gabriella lies about everything she could.",food,negative,37,41
+2521,"The environment is romantic, but the food is horrible, the service is pathetic, and gabriella lies about everything she could.",service,negative,59,66
+2523,"Well, their deliveries take for ever and the food is usually cold.",food,negative,45,49
+2537,"It is about FOOD and Ambiance, and imagine how dreadful it will be it we only had to listen to an idle engine.",food,negative,12,16
+2537,"It is about FOOD and Ambiance, and imagine how dreadful it will be it we only had to listen to an idle engine.",ambience,negative,21,29
+2538,"The food is mostly made from scratch, fresh and well prepared.",food,positive,4,8
+2555,"Service is friendly, prices are good - delivery time was a little slow, but for the way this pizza tastes, I'm willing to overlook it.",service,positive,0,7
+2571,"Ambience is so cute and quaint, good for business although we were there on vacation.",ambience,positive,0,8
+2576,By far the best salad I have had in a fast food restaurant.,food,neutral,38,47
+2580,"If it isn't for the food (A+++), it must be the service or the ambience.",food,positive,20,24
+2580,"If it isn't for the food (A+++), it must be the service or the ambience.",service,positive,48,55
+2580,"If it isn't for the food (A+++), it must be the service or the ambience.",ambience,positive,63,71
+2585,Delivery service is great too.,service,positive,0,16
+2590,"I love when restaurants think using fancy expensive ingrediants makes the food fine cuisine, even with no idea how to use them.",food,positive,74,78
+2592,"We went here for lunch a couple of weeks ago on a Saturday, and I was thoroughly impressed with the food.",food,positive,100,104
+2599,The place is so cool and the service is prompt and curtious.,service,positive,29,36
+2620,"The service was a bit slow, but they were very friendly.",service,negative,4,11
+2622,"Great food, great prices, great service.",food,positive,6,10
+2622,"Great food, great prices, great service.",service,positive,32,39
+2627,"The ambience was nice, but service wasn't so great.",ambience,positive,4,12
+2627,"The ambience was nice, but service wasn't so great.",service,negative,27,34
+2642,"We a menu that rearely changes,e xcept for one or two specials, the quality and care they put in thier food in evident.",food,positive,103,107
+2648,The food is tasty and portion sizes are appropriate.,food,positive,4,8
+2667,"The Halibut was too salty, dessert was so so (don't waste any of your calories) and service was poor.",service,negative,84,91
+2686,"The place is small and intimate and you may feel a little crowded, but the service is excellent and it's great for friends out, a romantic date, or a special occassion.",service,positive,75,82
+2688,The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don't like.,food,conflict,4,8
+2688,The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don't like.,food,positive,72,76
+2688,The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don't like.,food,positive,113,117
+2688,The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don't like.,food,neutral,125,129
+2688,The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don't like.,food,negative,143,147
+2692,"The staff was very attentive, the ambience lovely, and the food superb.",ambience,positive,34,42
+2692,"The staff was very attentive, the ambience lovely, and the food superb.",food,positive,59,63
+2696,"We all had the tasting menu and unlike some of the other reviews, I felt there was more than enough food.",food,positive,100,104
+2698,We were also seated promptly at the time of our reservation and the service was very quick and professional.,service,positive,68,75
+2701,"Service here was great, food was fantastic.",service,positive,0,7
+2701,"Service here was great, food was fantastic.",food,positive,24,28
+2708,"The food is fresh, delicious, and reasonably priced.",food,positive,4,8
+2718,"The first time I went, and was completely taken by the live jazz band and atmosphere, I ordered the Lobster Cobb Salad.",ambience,positive,74,84
+2734,"The Italian food has flavor (that can be sort of surprising on the UES), and the service turns from a nightmare to attentive,they sort of remind me of the NY Yankees of the late 90's, no matter how bad it look, you knew that there was a rally just around the corner...",food,positive,4,16
+2734,"The Italian food has flavor (that can be sort of surprising on the UES), and the service turns from a nightmare to attentive,they sort of remind me of the NY Yankees of the late 90's, no matter how bad it look, you knew that there was a rally just around the corner...",service,conflict,81,88
+2737,"The service is excellent, the decor is great, and the food is delicious and comes in large portions.",service,positive,4,11
+2737,"The service is excellent, the decor is great, and the food is delicious and comes in large portions.",food,positive,54,58
+2741,"Service was warm and attentive, beef carpaachio was exellent (huge portion) and pasta was fresh and well-prepared.",service,positive,0,7
+2746,I've never had bad service and the fish is fresh and delicious.,service,positive,19,26
+2748,The service was the only thing good about this restaurant.,service,positive,4,11
+2766,"The food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment.",food,positive,4,8
+2768,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.",food,positive,63,75
+2768,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.",service,positive,80,87
+2774,Service is not what one would expect from a joint in this price category.,service,negative,0,7
+2777,"To be completely fair, the only redeeming factor was the food, which was above average, but couldn't make up for all the other deficiencies of Teodora.",food,positive,57,61
+2778,"Found service above average, but that could be because we were 13 of us.",service,positive,6,13
+2782,All in all the food was above average and I would return to see how they operate with four or less dinners.,food,positive,15,19
+2790,Too bad the food wasn't of the same heritage.,food,negative,12,16
+2791,"The porcini mushroom pasta special was tasteless, so was the seafood tagliatelle.",food,negative,61,80
+2796,love the food.,food,positive,9,13
+2797,it's the only place you can get yummy authentic japanese comfort food.,food,positive,48,69
+2808,"The signs, the specials menus, food, and even all the waitstaff are ALL TOTALLY Japanese.",food,positive,31,35
+2818,This was my frist time at Cafe St. Bart's and I must say how delicous the food and the service was.,food,positive,74,78
+2818,This was my frist time at Cafe St. Bart's and I must say how delicous the food and the service was.,service,positive,87,94
+2823,"I highly recommend Cafe St. Bart's for their food, the ambience and wonderful service.",food,positive,45,49
+2823,"I highly recommend Cafe St. Bart's for their food, the ambience and wonderful service.",ambience,positive,55,63
+2823,"I highly recommend Cafe St. Bart's for their food, the ambience and wonderful service.",service,positive,78,85
+2827,"The food was below average, the service was pathetic, there was no ambience at all.",food,negative,4,8
+2827,"The food was below average, the service was pathetic, there was no ambience at all.",service,negative,32,39
+2827,"The food was below average, the service was pathetic, there was no ambience at all.",ambience,negative,67,75
+2832,"The food is wonderful, tasty and filling, and the service is professional and friendly.",food,positive,4,8
+2832,"The food is wonderful, tasty and filling, and the service is professional and friendly.",service,positive,50,57
+2835,This place would be so much better served by being run by a group that actually understands customer service.,service,negative,101,108
+2841,"I'm no food critic, but I'd like to think I have a tiny bit of experience under my belt having lived in NY for the last 11 years.",food,neutral,7,11
+2846,"Not only was the food outstanding, but the little 'perks' were great.",food,positive,17,21
+2848,"The menu is Prix Fixe, so be prepared to spend at least $60 per person, but it is Well worth itsuperb food.",food,positive,102,106
+2850,"The food was amazing, the service was so attentive and personable, and how about that ambience!",food,positive,4,8
+2850,"The food was amazing, the service was so attentive and personable, and how about that ambience!",service,positive,26,33
+2850,"The food was amazing, the service was so attentive and personable, and how about that ambience!",ambience,positive,86,94
+2854,Scalina Fedeli reminded me why service is so integral to fine dining.,service,positive,31,38
+2855,While the food was good (certainly no Il Mulino) the service was horrendous.,food,positive,10,14
+2855,While the food was good (certainly no Il Mulino) the service was horrendous.,service,negative,53,60
+2871,"Leon is an East Village gem: casual but hip, with well prepared basic French bistro fare, good specials, a warm and lively atmosphere.",ambience,positive,123,133
+2879,"The service is friendly, if not the most prompt in the world, the food is great, and the prices, while not cheap, won't put your wallet out of commission.",service,positive,4,11
+2879,"The service is friendly, if not the most prompt in the world, the food is great, and the prices, while not cheap, won't put your wallet out of commission.",food,positive,66,70
+2881,"Having not been home in the last 2 years may skew this reviewer a bit, but the food was tasty and spicy sans the oil that comes floating along at similar venues.",food,positive,79,83
+2884,"While I quite liked the food and the ambience, I'm not quite sure if it they really deserve it the Michelin rating they have displayed so prooudly in the window.",food,positive,24,28
+2884,"While I quite liked the food and the ambience, I'm not quite sure if it they really deserve it the Michelin rating they have displayed so prooudly in the window.",ambience,positive,37,45
+2886,My wife and I ate here earlier this week and have not stopped ranting and raving about the food.,food,positive,91,95
+2887,If you like spicy food get the chicken vindaloo.,food,neutral,12,22
+2891,"Over the years, it has always provided a pleasurable dining experience with quality food and wine.",food,positive,84,88
+2894,All of my co-workers stated that the food was amazing and wondered why they hadn't heard about this place.,food,positive,37,41
+2896,"When going out for a nice dinner, I like a nice ambiance as well as very good food.",ambience,positive,48,56
+2896,"When going out for a nice dinner, I like a nice ambiance as well as very good food.",food,positive,78,82
+2897,"While Sapphire is certainly not lacking in ambiance, and probably has the best decor of any Indian restaurant I have been to in New York City, the food was not what I had hoped for.",food,negative,147,151
+2897,"While Sapphire is certainly not lacking in ambiance, and probably has the best decor of any Indian restaurant I have been to in New York City, the food was not what I had hoped for.",ambience,positive,43,51
+2901,"While the $20 entree range is not overly expensive, in New York City, there is definitely better food in that range, and so Sapphire, despite it's lovely atmosphere, will most likely not be a restaurant to which I will return.",food,negative,97,101
+2901,"While the $20 entree range is not overly expensive, in New York City, there is definitely better food in that range, and so Sapphire, despite it's lovely atmosphere, will most likely not be a restaurant to which I will return.",ambience,positive,154,164
+2902,"Still, try it once, since if you end up loving the food, it could be one of your best dining experiences.",food,neutral,51,55
+2903,"i've been to sapphire twice and both times the food was fine, if not good.",food,positive,47,51
+2907,"service is friendly, and never had a problem walking in and getting a table.",service,positive,0,7
+2911,"Great food, good size menu, great service and an unpretensious setting.",food,positive,6,10
+2911,"Great food, good size menu, great service and an unpretensious setting.",service,positive,34,41
+2915,"not the food ,not the ambiance , not the service, I agree with the previous reviews you wait and wait , the wait staff are very rude and when you get in they are looking to get you right out .",food,neutral,8,12
+2915,"not the food ,not the ambiance , not the service, I agree with the previous reviews you wait and wait , the wait staff are very rude and when you get in they are looking to get you right out .",ambience,neutral,22,30
+2915,"not the food ,not the ambiance , not the service, I agree with the previous reviews you wait and wait , the wait staff are very rude and when you get in they are looking to get you right out .",service,neutral,41,48
+2921,Not impressed with the food.,food,negative,23,27
+2923,Zero ambiance to boot.,ambience,negative,5,13
+2924,"With the exception of our lemon salad that had so much pepper on it that our eyes started watering, the food here was decent, not great.",food,neutral,104,108
+2931,"The food is definitely good, but I left a bit disappointed.",food,positive,4,8
+2938,"they didn't disappoint, service from the second i arrived at the door was extremely pleasant and attentive with almost one server per table.",service,positive,24,31
+2939,all the food was excellent - considering the quality of food in most moderately priced restaurants is mediocre this was slightly more pricey and well worth it.,food,positive,8,12
+2939,all the food was excellent - considering the quality of food in most moderately priced restaurants is mediocre this was slightly more pricey and well worth it.,food,positive,45,60
+2940,they bring service up a notch by offerng complementary amuse bouche to all tables and gave us a small dessert for our celebration.,service,positive,11,18
+2948,There was no ambiance.,ambience,negative,13,21
+2957,"The waiters are sweet, the food is tasty and the bill is never too large.",food,positive,27,31
+2964,Not a small feat for good french food in the area.,food,positive,26,37
+2967,"Good French restaurant in an area devoid of decent restaurants unless you're into eating 4 pound pastrami sandwiches at Katz' Deli, or Mexican food which is supplied by capable restaurants.",food,neutral,135,147
+2968,"Nice ambiance, nice little bar, good bartender, Francois, and good service.",service,positive,67,74
+2968,"Nice ambiance, nice little bar, good bartender, Francois, and good service.",ambience,positive,5,13
+2973,"The food was amazing, and the service was prompt and helpful, but not over-bearing or rushed.",food,positive,4,8
+2973,"The food was amazing, and the service was prompt and helpful, but not over-bearing or rushed.",service,positive,30,37
+2977,"It may be a bit packed on weekends, but the vibe is good and it is the best French food you will find in the area.",food,positive,76,87
+2979,The food was actually aweful.,food,negative,4,8
+2983,"Nice atmosphere, the service was very pleasant and the desert was good.",ambience,positive,5,15
+2983,"Nice atmosphere, the service was very pleasant and the desert was good.",service,positive,21,28
+2987,"The food was delicious, the atmosphere was relaxed, and we have now adopted Plate 347 as our Secret on Second!",food,positive,4,8
+2987,"The food was delicious, the atmosphere was relaxed, and we have now adopted Plate 347 as our Secret on Second!",ambience,positive,28,38
+2993,delicious simple food in nice outdoor atmosphere.,food,positive,17,21
+2993,delicious simple food in nice outdoor atmosphere.,ambience,positive,38,48
+2998,"Even if the food wasn't this good, the garden is a great place to sit outside and relax.",food,positive,12,16
+3026,"The blond wood decor is very soothing, the premium sake is excellent and the service is great.",service,positive,77,84
+3042,"We have never had any problems with charging the meal or the tip, and the food was delivered quickly, but we live only a few minutes walk from them.",food,positive,74,78
+3049,The food was lousy - too sweet or too salty and the portions tiny.,food,negative,4,8
+3056,"However, go for the ambience, and consider the food just a companion for a trip across the world!",ambience,positive,20,28
+3056,"However, go for the ambience, and consider the food just a companion for a trip across the world!",food,negative,47,51
+3067,All the food was hot tasty.,food,positive,8,12
+3071,Cozy romantic atomosphere with only around 15 tables at most.,ambience,positive,14,25
+3072,Service was very prompt but slightly rushed.,service,conflict,0,7
+3073,"Food was very good, but not what I would consider out of this world.",food,positive,0,4
+3080,The food is inventive but still keeps traditional indian flavoring.,food,positive,4,8
+3083,"The wait staff is friendly, and the food has gotten better and better!",food,positive,36,40
+3084,"The food inludes famous scrumptious bombay style chaat such as bhelpuri, sevpuri and samosa chaats, as well as other great indian appetizers.",food,positive,4,8
+3091,"The puke green walls leave a lot to be desired, but the food is very good.",food,positive,56,60
+3108,"The food is good, but very expensive for the casualness of it.",food,conflict,4,8
+3111,"The service is spotty, sometimes really friendly and sometimes barely there.",service,conflict,4,11
+3112,Some servers make you feel like they are doing you a favor to bring you the food.,food,neutral,76,80
+3117,And the food was fantastic.,food,positive,8,12
+3120,"The food is good, I can't lie.",food,positive,4,8
+3130,The food was bland oily.,food,negative,4,8
+3134,"The people with carts of food don't understand you because they don't speak English, their job is to give you the delicious food you point at.",food,positive,124,128
+3134,"The people with carts of food don't understand you because they don't speak English, their job is to give you the delicious food you point at.",food,negative,4,29
+3141,The service is a little scatty at times but all is forgiven when the food arrives.,service,negative,4,11
+3141,The service is a little scatty at times but all is forgiven when the food arrives.,food,positive,69,73
+3144,I had to share my table with a loud group of kids and the service was rude an unattentive.,service,negative,58,65
+3150,"Food was okay, nothing great.",food,neutral,0,4
+3155,They are often crowded on the weekends but they are efficient and accurate with their service.,service,positive,86,93
+3174,Won't or Can't is not in the service directory.,service,positive,29,36
+3175,But who says Murray's is anything about service.,service,neutral,40,47
+3177,We ate at this Thai place following the reviews but very unhappy with the foods.,food,negative,74,79
+3178,We thought that this place is using too much of MSG cooking in the foods.,food,negative,67,72
+3184,The Thai food is good.,food,positive,4,13
+3189,The location and ambience is Ok but the food is what makes up for it.,ambience,neutral,17,25
+3189,The location and ambience is Ok but the food is what makes up for it.,food,positive,40,44
+3193,"The service is ok, some of the people didn't get what they asked for.",service,neutral,4,11
+3194,"I am not the most experienced person when it comes to Thai food, but my friend who took me there is.",food,neutral,54,63
+3201,The service was excellent and the food was delicious.,service,positive,4,11
+3201,The service was excellent and the food was delicious.,food,positive,34,38
+3205,"Haru serves very fresh fish, has a trendy, modern ambiance, prime location on Park Avenue South and friendly service.",service,positive,109,116
+3205,"Haru serves very fresh fish, has a trendy, modern ambiance, prime location on Park Avenue South and friendly service.",ambience,positive,50,58
+3206,Its a go-to for dates as well as entertaining out of town guests.,ambience,positive,33,45
+3219,"Fabulous service, fantastic food, and a chilled out atmosphere and environment.",service,positive,9,16
+3219,"Fabulous service, fantastic food, and a chilled out atmosphere and environment.",food,positive,28,32
+3219,"Fabulous service, fantastic food, and a chilled out atmosphere and environment.",ambience,positive,52,62
+3219,"Fabulous service, fantastic food, and a chilled out atmosphere and environment.",ambience,positive,67,78
+3228,"If you love seafood, you would love this place!",food,positive,12,19
+3230,"The seafood is amazing, there's a good wine list, and the ever-changing menu always offers some great surprises.",food,positive,4,11
+3234,We go on Mondays for the prix fixe and our experience with the food has been comparable to Blue Ribbon.,food,neutral,63,67
+3249,"Unfortunately, the food is outstanding, but everything else about this restaurant is the pits.",food,positive,19,23
+3254,I have eaten there 3-4 times and the food was always good.,food,positive,37,41
+3259,This isn't your corner Chinese food takeout.,food,neutral,23,35
+3263,"Each bite of food at Kai was indeed delicious, fresh, and elegant.",food,positive,13,17
+3266,"If you are someone who appreciates simplicity, elegance, and wonderfully presented and tasting seafood and vegetables regardless of portion size, Kai is your place.",food,positive,95,102
+3267,"If you are someone who appreciates the same things but hope to have food to spare or share, Kai may not be the best option.",food,neutral,68,72
+3268,The ambience is very calm and quiet.,ambience,positive,4,12
+3276,She gets 10 for her excellent service and advice.,service,positive,30,37
+3278,"The food was not very tasty, the portioins were tiny even for such a high quality restaurant.",food,negative,4,8
+3291,Food is great.,food,positive,0,4
+3292,Service is top notch.,service,positive,0,7
+3298,"The food is very good too but for the most part, it's just regular food, nothing special.",food,positive,4,8
+3298,"The food is very good too but for the most part, it's just regular food, nothing special.",food,neutral,67,71
+3302,The staff offers impeccable service.,service,positive,28,35
+3315,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,service,positive,18,25
+3315,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,food,positive,36,40
+3317,Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went.,food,positive,0,4
+3319,Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat.,service,positive,77,84
+3320,Baluchi's has solid food and a nice decor at reasonable prices.,food,positive,20,24
+3322,He offers subpar service and has no personality.,service,negative,17,24
+3325,There is no excuse for such lousy service!,service,negative,34,41
+3327,The food at this place is 'gourmet' Indian cuisine.,food,neutral,4,8
+3328,"Its not curry in a slurry crap, and regular run of the mill food.",food,neutral,60,64
+3334,Definite go if you're used to good Indian restaurant food from abroad.,food,positive,35,57
+932,"Food was decent, nothing extraordinary.",food,neutral,0,4
+933,"The meal was average, not too bad.",food,neutral,4,8
+934,"Food was alright, didnâ€™t surprise me.",food,neutral,0,4
+3335,"the food was undercooked-the sauce watery, and the vegetables raw.",food,negative,4,8
+3343,The food now is inconsistent.,food,negative,4,8
+3366,"The food is amazing, rich pastas and fresh doughy pizza.",food,positive,4,8
+3367,"Best of all is the warm vibe, the owner is super friendly and service is fast.",service,positive,62,69
+3379,"If you live in Upper Manhattan, Siam Square is THE place for Thia food.",food,positive,61,70
+3393,"For many people, this may not seem like Aunthentic Thai food because most places in NYC arent quite authentic.",food,negative,51,60
+3404,it's a perfect place to have a amanzing indian food.,food,positive,40,51
+3405,I really loved the different and inovated touch that's the cheff gives to the food.,food,positive,78,82
+3412,This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time.,ambience,positive,31,39
+3414,I cannot imagine better Indian food in all of the city.,food,positive,24,35
+3435,Mermaid Inn is an overall good restaurant with really good seafood.,food,positive,59,66
+3438,The service is good and ambience is good for a date or group outing.,service,positive,4,11
+3438,The service is good and ambience is good for a date or group outing.,ambience,positive,24,32
+3440,"Even though its good seafood, the prices are too high.",food,positive,21,28
+3443,service was efficient courteous.,service,positive,0,7
+3463,"I don't know about you guys, but when I go somewhere to eat I go for the food not for the atmosphere.",food,neutral,73,77
+3463,"I don't know about you guys, but when I go somewhere to eat I go for the food not for the atmosphere.",ambience,neutral,90,100
+3467,No you're going to go back because the food was good.,food,positive,39,43
+3468,So all I'm trying to say is this restaurant is by far the best thai food restaurant I've ever been to.,food,positive,63,72
+3470,"And forget what you read under me, the atmosphere isn't that bad either.",ambience,neutral,39,49
+3477,Joya used to be a cool spot with decent food and a colorful - if not relaxed - atmosphere.,food,positive,40,44
+3477,Joya used to be a cool spot with decent food and a colorful - if not relaxed - atmosphere.,ambience,positive,79,89
+3482,I had been a regular due to the consistently good food and ease of getting a table.,food,positive,50,54
+3489,"As much as I like the food there, I can't bring myself to go back.",food,positive,22,26
+3491,The food is authentic Italian - delicious!,food,positive,4,8
+3493,"Ambience is delightful, service impeccable.",ambience,positive,0,8
+3493,"Ambience is delightful, service impeccable.",service,positive,24,31
+3507,"His wife Tanya, the hostess, completes the comforting atmosphere by being delightfully warm and gracious.",ambience,positive,54,64
+3510,I was here a few weeks back and we had the worst customer service experience at a restaurant ever.,service,negative,49,65
+3513,"The service was poor, restaurant poorly lit, staff not very attentive and I would have rather eaten at a Mcdonald's than this joint.",service,negative,4,11
+3517,The food always tastes fresh and served promptly.,food,positive,4,8
+3519,The prices and ambience are especially great considering it's in the West Village.,ambience,positive,15,23
+3527,The food is nothing like its menu description.,food,negative,4,8
+3531,My friend's food was also the complete opposite of what it's supposed to taste like (aND look like).,food,negative,12,16
+3535,"The decor is dark, cool and soothing, while the food's presentation is spectacular, considering the low prices.",food,positive,48,67
+3537,"Service could be improved but overall this is a place that understands the importance of little things (the heavy, black, antique-seeming teapot, for one) in the restaurant experience.",service,negative,0,7
+3543,"Food is average, and I would say even the chain restaurant Baluchi's tastes better.",food,neutral,0,4
+3544,The ambience is very romantic and definitely a good place to bring a date.,ambience,positive,4,12
+3547,Taj Mahal offeres gret value and great food.,food,positive,39,43
+3555,"being a fan of spicy ethnic foods, indian included, i made friends with this place long ago.",food,positive,15,33
+3557,"head and shoulders above its neighboors on east 6 st, taj mahal is also very comparable, in food quality, to the much overpraised (and underdeserving) baluchi's.",food,positive,92,104
+3563,We were in search of food and stumbled on this block of Indian restaurants on East Sixth Street.,food,neutral,21,25
+3571,The food was mediocre at best but it was the horrible service that made me vow never to go back.,food,neutral,4,8
+3571,The food was mediocre at best but it was the horrible service that made me vow never to go back.,service,negative,54,61
+3578,"For the people who want great food plus great service, Roxy is a place to AVOID!",food,negative,30,34
+3578,"For the people who want great food plus great service, Roxy is a place to AVOID!",service,negative,46,53
+3580,"I would recommend Roxy's for that, but not for their food.",food,negative,53,57
+3587,"my wife and i have been going to nyc for years and wouldn't miss roxy,s food is expensive but it's new york!",food,conflict,72,76
+3590,"great food, lt's of it, more then one person can eat!",food,positive,6,10
+3595,It was so bad I actually refused to pay for my food.,food,negative,47,51
+3605,"Interesting selection, good wines, service fine, fun decor.",service,positive,35,42
+3621,The food is a diamond in rough -- the food is delicious and homemade with the perfect balance of herbs and tomatoes.,food,positive,4,8
+3621,The food is a diamond in rough -- the food is delicious and homemade with the perfect balance of herbs and tomatoes.,food,positive,38,42
+3625,Such nice people working here - but I have to review the food.,food,neutral,57,61
+3633,"The service was superb, they treat you like family.",service,positive,4,11
+3636,"We were on our way back to NJ, and since I am in NY, we figured why not grab some food?",food,neutral,82,86
+3642,"The food is outstanding and the service is quick, friendly and very professional.",food,positive,4,8
+3642,"The food is outstanding and the service is quick, friendly and very professional.",service,positive,32,39
+3654,"I found the food to be outstanding, particulary the salmon dish I had.",food,positive,12,16
+3662,The service was attentive without being overbearing and each dish we tried was wonderful from the spring rolls to the cod with pineapple tempura.,service,positive,4,11
+3667,"But when you are seated the waitresses are great, they explain everything on the menu, and the price of the food is really cheap for the service you get.",service,positive,137,144
+3667,"But when you are seated the waitresses are great, they explain everything on the menu, and the price of the food is really cheap for the service you get.",food,neutral,108,112
+3680,I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded.,ambience,positive,50,60
+3681,"The food was very good, a great deal, and the place its self was great.",food,positive,4,8
+3686,"Eating in, the atmosphere saves it, but at your desk, it's a very disappointing experience.",ambience,positive,15,25
+3688,"It is far more popular as a bar than as a restaurant, with only a few tables and the waiter being the bartender, but we greatly enjoyed the unobtrusive atmosphere.",ambience,positive,152,162
+814,The food was absolutely amazing!,food,positive,4,8
+831,I must say it's a little pricey for the food because it was not as spectacular as the view.,food,negative,40,44
+835,The food was very expensive (we spent $160 for lunch for two) but extremely tasty.,food,conflict,4,8
+837,Why do people rave about the ambience.,ambience,negative,29,37
+838,The aesthetics of this place are like an airport lounge.,ambience,negative,4,14
+900,"The flavors seemed to be having a disagreement on my plate, nothing truly stood out.",service,neutral,15,22
+901,"The food was okay, nothing special.",food,neutral,4,8
+902,"Food was alright, could use more flavor.",food,neutral,0,4
+903,"The dishes were fine, not great, but not bad either.",food,neutral,4,10
+904,"Food was average, just what you'd expect.",food,neutral,0,4
+905,"The meal was decent, not memorable though.",food,neutral,4,8
+906,"Food tasted fine, nothing to write home about.",food,neutral,0,4
+907,"The food was satisfactory, nothing stood out.",food,neutral,4,8
+908,"Food was okay, didn't impress but didn't disappoint.",food,neutral,0,4
+909,The dishes were neither great nor terrible.,food,neutral,4,10
+910,"Food was alright, nothing out of the ordinary.",food,neutral,0,4
+911,"The service was okay, nothing to praise.",service,neutral,4,11
+912,"Service was fine, not fast but not slow either.",service,neutral,0,7
+913,"The staff was decent, did their job.",service,neutral,4,9
+914,"Service was average, as expected.",service,neutral,0,7
+915,"It was okay, the service did what it had to.",service,neutral,13,20
+916,"The service was alright, not very attentive.",service,neutral,4,11
+917,"Service was decent, not too friendly, not too cold.",service,neutral,0,7
+918,"The staff was okay, did their job well enough.",service,neutral,4,9
+919,"Service was fine, neither amazing nor bad.",service,neutral,0,7
+920,"The service was standard, nothing extra.",service,neutral,4,11
+921,"The ambience was okay, not very special.",ambience,neutral,4,12
+922,"Ambience was fine, didn't stand out much.",ambience,neutral,0,8
+923,"The atmosphere was decent, could use more character.",ambience,neutral,4,14
+924,"Ambience was average, nothing too unique.",ambience,neutral,0,8
+925,"It was alright, the ambience was nothing special.",ambience,neutral,17,25
+926,"The ambience was okay, just fine for a meal.",ambience,neutral,4,12
+927,"Ambience was satisfactory, no wow factor.",ambience,neutral,0,8
+928,"The atmosphere was alright, neither good nor bad.",ambience,neutral,4,14
+929,"Ambience was fine, not the best but okay.",ambience,neutral,0,8
+930,"The ambience was standard, nothing stood out.",ambience,neutral,4,12
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
